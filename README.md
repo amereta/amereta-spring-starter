@@ -1,1 +1,1 @@
-# amereta-spring-starter
+# amereta-starter-spring
